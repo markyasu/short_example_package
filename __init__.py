@@ -8,6 +8,6 @@ from nations.Asia import Asia
 european_nations = Europe()
 european_nations.printMembers()
 
-asian_nations = Asian()
+asian_nations = Asia()
 asian_nations.printMembers()
 
